@@ -6,3 +6,5 @@ This directory is dedicated to recording these conventions and models
 - [x] Coordinate System ✅ 2024-01-16
 - [x] Number lines ✅ 2024-01-16
 - [x] Points ✅ 2024-01-16
+- [ ] Sigma Notation
+- [ ] Integral Notation
