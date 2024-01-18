@@ -6,6 +6,8 @@ Thus, the study of continuous change is able to model and, thus, predict reality
 
 #todo 
 - [ ] Limits
+- [x] Continuous Limits ✅ 2024-01-18
+- [x] Discrete Limits ✅ 2024-01-18
 - [ ] Limit Arithmetic
 - [ ] Continuity
 - [ ] Derivatives
