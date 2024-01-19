@@ -14,4 +14,4 @@ For example,
 $$
 f(x, y)
 $$
-Here *y* can represent factors such as heat of the tea water.
+Here *y* can represent factors such as heat of the tea water. This binary function can be represented visually by a [[coordinate_system]].
