@@ -8,4 +8,5 @@ Then, if we move our finger according to values of the number lines, we get the 
 That is move some value according to the vertical number line and we move some vertical distance and, similarly, for the horizontal number line.
 
 By convention, we call these number lines axis. The vertical is the *y* axis and the horizontal is the *x* axis.
+Moreover, by convention we call the intersection of these axis the origin.
 # A Formal Approach TODO
