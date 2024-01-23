@@ -6,3 +6,4 @@ Algebra is the study of manipulation of the equations and expressions.
 - [ ] The algebraic thereom (n roots of nth degree polynomial)
 - [x] Absolute values ✅ 2024-01-21
 - [ ] Numbers
+- [ ] Linear Algebra Constructs
