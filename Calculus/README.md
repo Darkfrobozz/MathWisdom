@@ -8,10 +8,11 @@ Thus, the study of continuous change is able to model and, thus, predict reality
 - [ ] Limits
 - [x] Continuous Limits ✅ 2024-01-18
 - [x] Discrete Limits ✅ 2024-01-18
-- [ ] Limit Arithmetic
+- [x] Limit Arithmetic ✅ 2024-01-23
 - [x] Scalar of Limits ✅ 2024-01-22
 - [x] Sum of Limits ✅ 2024-01-22
 - [x] Product of Limits ✅ 2024-01-22
+- [ ] Upgrade Continuous Limits
 - [ ] Continuity
 - [ ] Derivatives
 - [ ] Derivative Definition
