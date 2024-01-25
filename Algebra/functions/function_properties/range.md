@@ -1,0 +1,1 @@
+If we have a set $B$ and we take an input to a [[function]] $f$ from its [[domain]] and we can be absolutely sure that the output is in $B$, then we also know that $B$ is the range of $f$.

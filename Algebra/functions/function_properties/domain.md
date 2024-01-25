@@ -1,0 +1,1 @@
+If the set $A$ contains all valid inputs to a [[function]] $f$, then that is its domain.
