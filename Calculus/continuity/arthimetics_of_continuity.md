@@ -1,0 +1,5 @@
+Given the definition of [[continuity]] and [[continous_limits_arthimetics]], we want to prove the following proposition $P_{1}$:
+	The continuity property of functions is transferred through arithmetic operations.
+Now, we can use the fact that [[continuity]] is based on limits to assert that if $f$ and $g$ have some limit when their input is moving towards some point then any of the three arithmetic operations of interest on those [[function]]s will result in the same operation on their limits based on [[continous_limits_arthimetics]].
+Finally, using the fact of [[continuity]] that the limit is the output of the function at the point its input is moving towards.
+We have from that we are simply arithmetically combining the functions that the combined limit is indeed moving towards the output of the combined function. Thus, proving $P_{1}$.

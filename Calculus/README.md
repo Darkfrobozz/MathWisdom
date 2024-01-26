@@ -12,8 +12,9 @@ Thus, the study of continuous change is able to model and, thus, predict reality
 - [x] Scalar of Limits ✅ 2024-01-22
 - [x] Sum of Limits ✅ 2024-01-22
 - [x] Product of Limits ✅ 2024-01-22
+- [ ] Composition of Limits
 - [ ] Upgrade Continuous Limits
-- [ ] Continuity
+- [x] Continuity ✅ 2024-01-25
 - [ ] Derivatives
 - [ ] Derivative Definition
 - [ ] Product Derivation
