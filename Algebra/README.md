@@ -1,4 +1,4 @@
-Algebra is the study of manipulation of the equations and expressions.
+Algebra is the study of manipulation of constructs representing quantities.
 
 #todo 
 - [x] Triangle inequality ✅ 2024-01-22

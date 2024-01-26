@@ -4,7 +4,10 @@ That is the topic of analyzing functions
 
 Some of the properties that need to be researched are:
 - [x] Continuity ✅ 2024-01-23
-- [ ] Continuity Arithmetic
+- [x] Continuity Arithmetic ✅ 2024-01-24
 - [ ] Derivability
-- [ ] Differantialbility arithmetic
+- [ ] Differentiability arithmetic
 - [ ] Integrable
+- [ ] Monotone
+- [ ] Mean value theorem
+- [ ] Intermediate value theorem
