@@ -2,5 +2,5 @@ The following directory will go into what a derivative is and its interplay with
 
 - [ ] MVT
 - [x] Definition ✅ 2024-01-29
-- [ ] Arithmetic properties
-- [ ] Chain rule
+- [x] Arithmetic properties ✅ 2024-01-30
+- [x] Chain rule ✅ 2024-01-30
