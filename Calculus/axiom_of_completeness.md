@@ -1,4 +1,4 @@
-This axiom states that every set bounded set has a least upper bound, it is called the supremum.
+This axiom states that every bounded set has a least upper bound, it is called the supremum.
 The axiom is a statement of existence.
 
 To understand it, we have to understand bounds.
