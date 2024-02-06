@@ -11,16 +11,19 @@ Note that for $n = 0$, we can see that this formula is true since it is given by
 $$
 f(x) = f(a) + f'(s)(x-a) \implies \frac{f(x) -f(a)}{x-a} = f'(s) \tag{1}
 $$
-Now let's assume that $P_{1}$ is true for $n = k - 1$
+Now let's assume that $P_{1}$ is true for $n = k - 1$ for all functions :
 $$
 R_{k-1}(x) = \frac{f^k(s)}{k!}(x-a)^k
 $$
 Let's now consider $R_{k}(x)$ and use the generalized mean value theorem on the functions $R_{k}(t)$ and $(t-a)^{k+1}$.
-Note that since the taylor series is centered on *a* the remainder there is necessarily zero.
+Note that since the Taylor series is centered on *a* the remainder there, $R_{k}(a)$, is necessarily zero.
 $$
-\frac{R_{k}(x)}{(x-a)^{k+1}} = \frac{R_{k}'(u)}{(k+1)(u-a)^k} \tag{2}
+\frac{R_{k}(x) - R_{k}(a)}{(x-a)^{k+1} -(a-a)^{k+1}} = \frac{R_{k}(x)}{(x-a)^{k+1}} = \frac{R_{k}'(u)}{(k+1)(u-a)^k} \tag{2}
 $$
 Now we simply need to figure out what $R_{k}'(u)$ is:
+$$
+R_{k}(t) = f(t) - T_{k}(t)
+$$
 $$
 R_{k}(t) = f(t) - f(a) - \frac{f'(a)}{1!}(t-a) - \dots - \frac{f^{k}(a)}{k!}(t-a)^k
 $$
