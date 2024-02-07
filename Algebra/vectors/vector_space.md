@@ -1,0 +1,2 @@
+Using [[vector]]s and a [[field]] we can construct what is called a vector space, these constructs are all the points we can reach by combining our vectors and stretching them by values in our [[field]].
+More precisely, the vector space is the result of all [[linear_combination]]s over the [[field]] chosen.
