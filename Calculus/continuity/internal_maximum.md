@@ -1,0 +1,3 @@
+Using the [[conservation_of_compactness]], we have that if a [[function]] has [[continuity]] on a closed and bounded set then it must itself be closed and bounded.
+This is a consequence of [[compact_set]]s being logically equivalent to closed and bounded sets.
+Moreover, this implies that there exists a maximum and minimum since it being bounded implies by [[axiom_of_completeness]] that there is a least upper bound and by it being closed implies that since the least upper bound is a limit point of a set, it must be in the set.
