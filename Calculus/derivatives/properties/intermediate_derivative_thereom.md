@@ -3,7 +3,7 @@ Note that we assume $f'(a) < f'(b)$ for the reverse, the argument remains roughl
 First we fix some value $c$ such that $f'(a) < c < f'(b)$ then we augment $f(x)$ with $f(x) - cx$
 This is of course also differentiable by [[sum_of_derivatives]] and [[scalar_of_derivatives]].
 
-Now we use that the [[derivative]] implies that $f(x) - cx$ has [[continuity]] over $[a,b]$ and using that with [[internal_maximum]] implies that there is an extremum.
+Now we use that the [[derivative]] implies that $f(x) - cx$ has [[continuity]] over $[a,b]$ and using that with [[existence_of_extremum]] implies that there is an extremum.
 This implies by [[derivative_at_internal_extremum]] that there exists a point where the derivative is zero if that maximum is not at the end points.
 Consequently, we can simply use our premise :
 $$
