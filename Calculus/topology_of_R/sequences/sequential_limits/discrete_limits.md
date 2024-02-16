@@ -1,4 +1,4 @@
-To introduce limits, we can think about [[sequences]], specifically the following $(a_{n})$
+To introduce limits, we can think about [[sequence]], specifically the following $(a_{n})$
 $$
 (a_{n}) = (0.1, 0.01, 0.001, \dots)
 $$
