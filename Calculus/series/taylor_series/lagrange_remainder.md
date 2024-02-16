@@ -7,7 +7,7 @@ R_{n}(x) = \frac{f^{n+1}(s)}{(n+1)!}(x-a)^{n+1}
 $$
 And $s$ here is some value between $a$ and $x$.
 
-Note that for $n = 0$, we can see that this formula is true since it is given by the mean value theorem :
+Note that for $n = 0$, we can see that this formula is true since it is given by the [[mean_value_thereom]] :
 $$
 f(x) = f(a) + f'(s)(x-a) \implies \frac{f(x) -f(a)}{x-a} = f'(s) \tag{1}
 $$
@@ -15,8 +15,8 @@ Now let's assume that $P_{1}$ is true for $n = k - 1$ for all functions :
 $$
 R_{k-1}(x) = \frac{f^k(s)}{k!}(x-a)^k
 $$
-Let's now consider $R_{k}(x)$ and use the generalized mean value theorem on the functions $R_{k}(t)$ and $(t-a)^{k+1}$.
-Note that since the Taylor series is centered on *a* the remainder there, $R_{k}(a)$, is necessarily zero.
+Let's now consider $R_{k}(x)$ and use the [[mean_value_of_functions]] on the functions $R_{k}(t)$ and $(t-a)^{k+1}$.
+Note that since the Taylor series is centred on *a* the remainder there, $R_{k}(a)$, is necessarily zero.
 $$
 \frac{R_{k}(x) - R_{k}(a)}{(x-a)^{k+1} -(a-a)^{k+1}} = \frac{R_{k}(x)}{(x-a)^{k+1}} = \frac{R_{k}'(u)}{(k+1)(u-a)^k} \tag{2}
 $$
