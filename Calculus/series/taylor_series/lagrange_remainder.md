@@ -7,7 +7,7 @@ R_{n}(x) = \frac{f^{n+1}(s)}{(n+1)!}(x-a)^{n+1}
 $$
 And $s$ here is some value between $a$ and $x$.
 
-Note that for $n = 0$, we can see that this formula is true since it is given by the [[mean_value_thereom]] :
+Note that for $n = 0$, we can see that this formula is true since it is given by the [[mean_value_thereom]] ($x$ is the endpoint here) :
 $$
 f(x) = f(a) + f'(s)(x-a) \implies \frac{f(x) -f(a)}{x-a} = f'(s) \tag{1}
 $$
