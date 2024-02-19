@@ -21,11 +21,15 @@ Thus, the study of continuous change is able to model and, thus, predict reality
 - [x] Sum Derivation ✅ 2024-02-02
 - [x] The Chain Rule ✅ 2024-02-02
 - [x] IVT ✅ 2024-02-02
-- [ ] Taylor Series
+- [x] Taylor Series ✅ 2024-02-16
 - [ ] Integration
-- [ ] MVT
-- [ ] Generalized MVT
-- [ ] Rolle's theorem
-- [ ] Lagrange error formula⏫ 
-- [ ] Internal maximums
-- [ ] No gaps in derivatives
+- [ ] Integration techniques
+- [ ] Fundamental Theorem of Calculus
+- [x] MVT ✅ 2024-02-16
+- [x] Generalized MVT ✅ 2024-02-16
+- [x] Rolle's theorem ✅ 2024-02-16
+- [x] Lagrange error formula ⏫ ✅ 2024-02-16
+- [x] Internal maximums ✅ 2024-02-16
+- [x] No gaps in derivatives ✅ 2024-02-16
+- [ ] Cantor set
+- [x] Discrete -> Continuous ✅ 2024-02-16
