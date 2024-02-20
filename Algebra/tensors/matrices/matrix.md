@@ -15,3 +15,6 @@ Moreover, we call the $0,1$ part a row and the $0,2$ part a column.
 Addition is quick intuitive on matrixes as we simply add corresponding elements.
 
 Scalar multiplication is also very intuitive, we just distribute to all components.
+
+## Geometric Meaning
+A matrix in linear algebra is used as notation for a [[linear_transformation]], specifically, the columns of a matrix tells us where the standard [[basis_vectors]] should land.
