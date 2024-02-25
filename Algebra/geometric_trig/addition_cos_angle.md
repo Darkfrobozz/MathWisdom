@@ -10,6 +10,18 @@ $$
 & =\sqrt{ \cos^2x - \cos^2 x \sin^2 y + \sin^2x - \sin^2x \cos^2 y - 2\dots } \\
 & = \sqrt{ \cos^2x\cos^2y + \sin^2x\sin^2y - 2\sin x \cos y \cos x \sin y } \\
 & = \sqrt{ (\cos x \cos y - \sin x \sin y)^2 } \\
-& = \cos x \cos y - \sin x \sin y
+& = \pm(\cos x \cos y - \sin x \sin y)
 \end{align}
+$$
+Notice that $\sin x\sin y - \cos x \cos y$ is also an solution to this. However, by putting $y = 0 \land x = 0$, we get that:
+$$
+\cos(0 + 0) = 0 - 1 \lor 1 - 0
+$$
+and obviously,
+$$
+\cos(0) = 1
+$$
+This implies that the correct answer is :
+$$
+\cos x \cos y - \sin x \sin y
 $$
