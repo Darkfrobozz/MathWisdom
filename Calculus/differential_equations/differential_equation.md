@@ -1,0 +1,1 @@
+These arise when absolute amounts are harder to ascertain than rate of change.

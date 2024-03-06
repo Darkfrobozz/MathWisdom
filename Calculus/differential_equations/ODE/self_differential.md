@@ -1,0 +1,1 @@
+Often in [[differential_equation]]s, we find that we need to find a [[derivative]] that is definable in terms of its [[integral]].
