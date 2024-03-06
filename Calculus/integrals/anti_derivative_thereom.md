@@ -1,7 +1,7 @@
 # Proposition
 The proposition is that given the existence of any integral $F$ of a function $f$:
 $$
-F' = f
+\int f \, dx = F \implies F' = f
 $$
 # Proof
 To prove this, regard the definition of an [[integral]] and notice that we are concerned with the process of generating more and more accurate series and exploring what the limit of those accurate series are.

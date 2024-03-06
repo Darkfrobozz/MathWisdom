@@ -1,0 +1,1 @@
+Given a solution to a [[vector_space_HLDE]], we have that if we have a solution to a LDE, we can simply add them together to get a new solution.
