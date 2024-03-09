@@ -11,20 +11,20 @@ $$
 0
 \end{bmatrix}
 \begin{bmatrix}
-a_{11} & . & . & . & & & a_{n1} \\
-. \\
-. \\
-. \\ \\
-
-a_{1n} & . & . & . & & & a_{nn}
-\end{bmatrix}
-\begin{bmatrix}
 b_{11} & . & . & . & & & b_{n1} \\
 . \\
 . \\
 . \\ \\
 
 b_{1n} & . & . & . & & & b_{nn}
+\end{bmatrix}
+\begin{bmatrix}
+a_{11} & . & . & . & & & a_{n1} \\
+. \\
+. \\
+. \\ \\
+
+a_{1n} & . & . & . & & & a_{nn}
 \end{bmatrix}
 $$
 Now seeing where the basis vector eventually land we first get that :
