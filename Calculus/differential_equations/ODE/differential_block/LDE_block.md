@@ -5,7 +5,7 @@ $$
 This is an extension of a [[separable_block]], in fact, we can solve it by putting $q(x) = 0$ and, then, solve it as usual, we get: $y' = -p(x)y$
 Given the solution on the form:
 $$
-g(y) = Ke^{-u(x)} \implies y = Ke^{-u(x)}
+y = Ke^{-u(x)} \implies y = Ke^{-u(x)}
 $$
 We can replace $K$ with a function $k(x)$
 $$

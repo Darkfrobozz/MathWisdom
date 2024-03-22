@@ -8,8 +8,5 @@ $$
 $$
 Can be split and, thus, integration can occur, we will be using implicitly [[u_sub]].
 $$
-\frac{y'}{g(y)} = -p(x) = \ln |g(y)|  = -\int p(x) \, dx
-$$
-$$
-g(y) = e^{-u(x) + C} = e^Ce^{-u(x)} = Ke^{-u(x)}
+\frac{y'}{g(y)} = -p(x) = \int \frac{1}{g(y)} \, dy   = -\int p(x) \, dx
 $$
